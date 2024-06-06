@@ -1,0 +1,8 @@
+body{background-color: rgb(255, 255, 255);}
+.img-container {
+    text-align: center;
+    display: block;
+}
+h1{
+    color: red;
+}
